@@ -214,7 +214,7 @@ Aucune installation particulière n'est nécessaire.
 
 1. Cloner le projet
 
-git clone https://github.com/VOTRE-USERNAME/VOTRE-REPOSITORY.git
+git clone https://github.com/sanefatimata0-alt/Odysee.git
 
 2. Ouvrir le dossier
 
