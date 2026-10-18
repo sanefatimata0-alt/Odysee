@@ -1,4 +1,4 @@
-✈️ Odysée — Agence de voyages
+ Odysée — Agence de voyages
 
 «Voyagez plus loin. Vivez plus fort.»
 
@@ -8,7 +8,7 @@ Le projet présente une expérience simple, moderne et chaleureuse permettant au
 
 ---
 
-🌍 Présentation
+ Présentation
 
 Odysée accompagne les voyageurs dans la création de voyages adaptés à leurs envies, leur rythme et leur budget.
 
@@ -22,24 +22,24 @@ L'objectif est de proposer une interface esthétique et facile à utiliser tout 
 
 ---
 
-✨ Fonctionnalités
+ Fonctionnalités
 
-🧭 Navigation
+ Navigation
 
 - Navigation entre les différentes sections de la page
 - Menu responsive sur mobile
 - Défilement fluide entre les sections
 - Fermeture automatique du menu mobile après sélection
 
-🌎 Destinations
+ Destinations
 
 - Présentation de plusieurs destinations
 - Informations sur chaque voyage
 - Durée du séjour
 - Badge indiquant les destinations populaires, nouvelles ou coups de cœur
-- Système de favoris ❤️
+- Système de favoris 
 
-📖 Guides de voyage
+ Guides de voyage
 
 Le site propose plusieurs contenus autour du voyage :
 
@@ -48,7 +48,7 @@ Le site propose plusieurs contenus autour du voyage :
 - Carnets de route
 - Guides de destinations
 
-📰 Blog
+ Blog
 
 Une section blog présente différentes histoires et thématiques :
 
@@ -56,7 +56,7 @@ Une section blog présente différentes histoires et thématiques :
 - Bien-être
 - Food trip
 
-❓ FAQ
+ FAQ
 
 Une section de questions fréquentes permet aux visiteurs d'obtenir rapidement des réponses concernant :
 
@@ -69,13 +69,13 @@ Une section de questions fréquentes permet aux visiteurs d'obtenir rapidement d
 
 Le site est adapté aux différentes tailles d'écran :
 
-- 💻 Ordinateur
-- 📱 Smartphone
-- 📲 Tablette
+-  Ordinateur
+-  Smartphone
+-  Tablette
 
 ---
 
-🎨 Design
+ Design
 
 Le design utilise une identité visuelle chaleureuse et moderne.
 
@@ -98,7 +98,7 @@ Les polices sont importées depuis Google Fonts.
 
 ---
 
-💻 Technologies utilisées
+ Technologies utilisées
 
 Technologie| Utilisation
 HTML5| Structure du site
@@ -109,7 +109,7 @@ Unsplash| Certaines images du site
 
 ---
 
-📁 Structure du projet
+ Structure du projet
 
 Odysée/
 │
@@ -180,7 +180,7 @@ Sur mobile :
 
 ---
 
-❤️ Système de favoris
+ Système de favoris
 
 Chaque destination possède un bouton cœur.
 
@@ -196,7 +196,7 @@ Un deuxième clic permet de retirer le favori :
 
 ---
 
-📲 Contact
+ Contact
 
 Le site contient plusieurs moyens de contact et de partage :
 
@@ -208,7 +208,7 @@ Le bouton WhatsApp permet d'ouvrir directement une conversation avec un message 
 
 ---
 
-🚀 Installation
+ Installation
 
 Aucune installation particulière n'est nécessaire.
 
@@ -232,7 +232,7 @@ Vous pouvez également utiliser Visual Studio Code avec l'extension Live Server.
 
 ---
 
-🎯 Objectifs pédagogiques
+ Objectifs pédagogiques
 
 Ce projet permet de mettre en pratique plusieurs notions de développement web :
 
@@ -252,7 +252,7 @@ Ce projet permet de mettre en pratique plusieurs notions de développement web :
 
 ---
 
-🔮 Améliorations possibles
+ Améliorations possibles
 
 Plusieurs fonctionnalités pourraient être ajoutées dans une prochaine version :
 
@@ -268,7 +268,7 @@ Plusieurs fonctionnalités pourraient être ajoutées dans une prochaine version
 
 ---
 
-👩🏽‍💻 Auteur
+ Auteur
 
 Fatimata Sané
 
@@ -276,7 +276,7 @@ Projet réalisé dans le cadre de l'apprentissage du développement web.
 
 ---
 
-📄 Licence
+ Licence
 
 Projet réalisé à des fins pédagogiques et personnelles.
 
